@@ -307,9 +307,6 @@ i {
   .card {
     width: 40%;
   }
-  footer {
-    flex-direction: row;
-  }
 }
 
 @media screen and (min-width: 932px) {
@@ -318,5 +315,8 @@ i {
   }
   section .container {
     width: 85%;
+  }
+  footer {
+    flex-direction: row;
   }
 }
